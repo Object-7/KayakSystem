@@ -1,7 +1,7 @@
 ﻿
 using UdonSharp;
 
-namespace Object.KayakSystem {
+namespace Object7.KayakSystem {
     public class RepawnKayak : UdonSharpBehaviour
     {
         public PaddleMainGrip paddle;

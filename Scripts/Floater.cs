@@ -4,7 +4,7 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-namespace Object.KayakSystem {
+namespace Object7.KayakSystem {
     public class Floater : UdonSharpBehaviour
     {
         public Transform waterPosition;

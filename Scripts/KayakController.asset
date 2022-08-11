@@ -464,7 +464,7 @@ MonoBehaviour:
       Data: 22|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: Object.KayakSystem.PaddleSpeed, Assembly-CSharp
+      Data: Object7.KayakSystem.PaddleSpeed, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -572,7 +572,7 @@ MonoBehaviour:
       Data: 28|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: Object.KayakSystem.SpeedIndicator, Assembly-CSharp
+      Data: Object7.KayakSystem.SpeedIndicator, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 

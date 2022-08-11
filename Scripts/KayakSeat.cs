@@ -3,7 +3,7 @@ using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
 
-namespace Object.KayakSystem {
+namespace Object7.KayakSystem {
     public class KayakSeat : UdonSharpBehaviour
     {
 

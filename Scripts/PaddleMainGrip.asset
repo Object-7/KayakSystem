@@ -62,7 +62,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: Object.KayakSystem.PaddleOtherGrip, Assembly-CSharp
+      Data: Object7.KayakSystem.PaddleOtherGrip, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 

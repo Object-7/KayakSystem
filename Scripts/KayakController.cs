@@ -7,7 +7,7 @@ using VRC.Udon;
 using VRC.SDK3.Components;
 using VRC.Udon.Common.Interfaces;
 
-namespace Object.KayakSystem {
+namespace Object7.KayakSystem {
     public class KayakController : UdonSharpBehaviour
     { 
         public KeyCode accelerationKeyLeft = KeyCode.Q;

@@ -3,7 +3,7 @@ using UdonSharp;
 using UnityEngine;
 using TMPro;
 
-namespace Object.KayakSystem {
+namespace Object7.KayakSystem {
     public class PaddleSpeed : UdonSharpBehaviour
     {
         public Transform waterPosition;
